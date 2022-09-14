@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * *print_alphabet_x10 - print the alphabet 10times
- * */
+*print_alphabet_x10 - print the alphabet 10times
+*/
 void print_alphabet_x10(void)
 {
 	char a = 'a';
 	int n = 10;
-
+	
 	while (n >= 1)
 	{
 		while (a <= 'z')
