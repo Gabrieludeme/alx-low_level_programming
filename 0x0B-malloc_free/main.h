@@ -1,4 +1,8 @@
-// A developed header file
+/**
+ * A developed header
+ * That contains the functions needed
+ * for the tasks
+ */
 
 #ifndef HOLBERTON_H
 #define HOLBERTON_H
